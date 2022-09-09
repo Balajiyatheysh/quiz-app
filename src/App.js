@@ -4,7 +4,7 @@ import ProgressBar from 'react-bootstrap/ProgressBar';
 
 const questions = [
   {
-    questionText: "Which is the capital city of India",
+    questionText: "Which is the capital city of India ?",
     answerOptions: [
       { answerText: "Bangalore", isCorrect: false },
       { answerText: "Noida", isCorrect: false },
